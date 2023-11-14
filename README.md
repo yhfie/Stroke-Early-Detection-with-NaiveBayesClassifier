@@ -1,4 +1,4 @@
-# StrokeEarlyDetectionNBC
+# Early Detection System of Stroke Using Naive Bayes Classifier
 
 My practice of Data Mining that is: "Early detection system of Stroke using Naive Bayes Classifier".
 Files:
