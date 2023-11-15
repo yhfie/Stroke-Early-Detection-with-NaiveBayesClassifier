@@ -1,6 +1,6 @@
-# Early Detection System of Stroke Using Naive Bayes Classifier
+# Stroke Early Detection System Using Naive Bayes Classifier
 
-My practice of Data Mining that is: "Early detection system of Stroke using Naive Bayes Classifier".
+My practice of Data Mining that is: "Stroke early detection system using Naive Bayes Classifier".
 Files:
 1. `healthcare-dataset-stroke-data.csv`: Original dataset from link below
 2. `healthcare-dataset-stroke-data_CLEAN.csv`: Preprocessed dataset
