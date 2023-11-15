@@ -10,5 +10,6 @@ Files:
 6. `scaler_model.joblib`: Using `scaler` variable cross-file since i code in separate files
 
 I think it was inefficient in the data prediction stage (`3-interface.ipynb`) since i'm still learning. I will learn how to do it the right and better way.
+Definitely far from perfect but i'm so eager to learn more! 🔥
 
 Dataset link: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
